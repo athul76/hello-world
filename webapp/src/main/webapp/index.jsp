@@ -10,6 +10,7 @@
     <option value="australia">Australia</option>
     <option value="canada">Canada</option>
     <option value="usa">USA</option>
+    <option value="india">INDIA</option>
   </select>
 
   <input type="submit" value="Submit">
