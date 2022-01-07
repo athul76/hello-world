@@ -5,12 +5,19 @@
   <label for="lname">Last Name</label>
   <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
+  <label for="email">EMail</label>
+  <input type="text" id="email" name="email" placeholder="your mail address">
+
+
+
+
   <label for="country">Country</label>
   <select id="country" name="country">
     <option value="australia">Australia</option>
     <option value="canada">Canada</option>
     <option value="usa">USA</option>
     <option value="india">INDIA</option>
+    <option value="england">England</option>
   </select>
 
   <input type="submit" value="Submit">
